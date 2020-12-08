@@ -1,1 +1,2 @@
-This is just a simple login terminal script. There is not any database to store user's info. When you create new account your data will be stored in text files in DataBase folder.
+This is just a simple login terminal script. There is not any database to store user's info.
+When you create new account your data will be stored in text files in DataBase folder.
